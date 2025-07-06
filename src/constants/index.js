@@ -98,7 +98,7 @@ export const myProjects = [
 
       {
         id: 3,
-        name: "Movie database",
+        name: "MovieDB",
         path: "/assets/logos/sql.svg",
       },
       {
