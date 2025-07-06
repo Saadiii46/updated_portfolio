@@ -242,7 +242,7 @@ export const experiences = [
   {
     title: "Full Stack Developer",
     job: "Full Stack Applications",
-    date: "2023-204",
+    date: "2023-2024",
     contents: [
       "Designed and developed scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), ensuring responsive UI and efficient backend logic.",
       "Built and consumed RESTful APIs and integrated third-party services, enabling smooth communication between frontend and backend components.",
